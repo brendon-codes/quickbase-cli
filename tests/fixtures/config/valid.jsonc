@@ -1,0 +1,7 @@
+{
+  // hostname only
+  "quickbaseRealm": "example.quickbase.com",
+  "quickbaseAppId": "app_fixture",
+  "quickbaseUserToken": "test-token",
+  "mode": "dryrun", // default safe mode
+}

@@ -1,0 +1,13 @@
+{
+  // Quickbase realm hostname only. Do not include https:// or a path.
+  "quickbaseRealm": "example.quickbase.com",
+
+  // Default Quickbase app ID used when --appId is omitted.
+  "quickbaseAppId": "replace-with-your-app-id",
+
+  // Replace this with a Quickbase user token before running live commands.
+  "quickbaseUserToken": "replace-with-your-user-token",
+
+  // Use "live" to call Quickbase. Keep examples and generated configs in dryrun.
+  "mode": "dryrun"
+}

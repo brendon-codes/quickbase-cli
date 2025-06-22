@@ -1,0 +1,6 @@
+{
+  "quickbaseRealm": "example.quickbase.com",
+  "quickbaseAppId": "app_fixture",
+  "quickbaseUserToken": "token",
+  "mode": "pretend"
+}
